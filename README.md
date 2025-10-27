@@ -1,1 +1,1 @@
-# EDA---payment-agreggator-
+# EDA payment agreggator
